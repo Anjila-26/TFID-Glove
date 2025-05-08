@@ -14,6 +14,14 @@ visualization/
     └── src/               # React components and pages
 ```
 
+### Features 
+1. Embedding of the Word
+   ![image](https://github.com/user-attachments/assets/7824f451-4e3a-4f70-a255-054eeedf6d31)
+2. TF-IDF calculation
+   ![image](https://github.com/user-attachments/assets/dfd6371c-7bed-4678-b1c8-171334fbb4f0)
+3. Visualization of the Embeddings
+   ![image](https://github.com/user-attachments/assets/3c1df49c-ba55-4f3b-9eed-35e199946f8f)
+
 ## Backend Setup
 
 The backend uses FastAPI to serve word embeddings, TF-IDF vectors, and visualization coordinates.
